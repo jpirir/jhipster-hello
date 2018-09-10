@@ -1,6 +1,9 @@
 # jhipste
 This application was generated using JHipster 5.3.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.1](https://www.jhipster.tech/documentation-archive/v5.3.1).
 
+I'm follow "Local installation with NPM (recommended for normal users)" 
+[https://www.jhipster.tech/installation/] (https://www.jhipster.tech/installation/)
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
